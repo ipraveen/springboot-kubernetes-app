@@ -1,9 +1,0 @@
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/Bookmark.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkService.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/DataInitializer.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/PageDto.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkDTO.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/controllers/BookmarkController.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/BookmarkerApiApplication.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarksDTO.java
-/Users/pravsingh/projects/springboot-kubernetes-app/bookmarker-api/src/main/java/com/sivalabs/bookmarker/domain/BookmarkRepository.java

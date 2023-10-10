@@ -1,9 +1,0 @@
-com/sivalabs/bookmarker/domain/PageDto.class
-com/sivalabs/bookmarker/domain/BookmarkRepository.class
-com/sivalabs/bookmarker/controllers/BookmarkController.class
-com/sivalabs/bookmarker/domain/BookmarkService.class
-com/sivalabs/bookmarker/domain/Bookmark.class
-com/sivalabs/bookmarker/domain/BookmarksDTO.class
-com/sivalabs/bookmarker/domain/BookmarkDTO.class
-com/sivalabs/bookmarker/DataInitializer.class
-com/sivalabs/bookmarker/BookmarkerApiApplication.class
